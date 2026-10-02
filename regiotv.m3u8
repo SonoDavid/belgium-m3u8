@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJFyeRV.png" group-title="Regionale TV", ATV
+https://live.zendzend.com/mpegts/29375_107244/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTlHpy5.png" group-title="Regionale TV",AVS
+#EXTVLCOPT:http-referrer=https://player.clevercast.com/
+https://hls-origin01-avs.cdn01.rambla.be/main/adliveorigin-avs/_definst_/2bzwD9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="Regionale TV", BRUZZ
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.rmm.be/branding/logo/focuswtv/FocusWTVbol_RGB.jpg" group-title="Regionale TV", Focus
+https://focuslive.b-cdn.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://apps.rmm.be/branding/logo/focuswtv/FocusWTVbol_RGB.jpg" group-title="Regionale TV", WTV
+https://wtvlive.b-cdn.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.robtv.be/static/img/logo-robtv.png" group-title="Regionale TV", ROBtv
+https://live.zendzend.com/mpegts/29375_395477/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvl.be/static/img/logo-tvl-square.png" group-title="Regionale TV", TVL
+https://live.zendzend.com/mpegts/29375_395474/master_mpegts.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvoost.be/static/img/tvoost-logo.png" group-title="Regionale TV", TV Oost
+https://live.zendzend.com/mpegts/29375_399410/master_mpegts.m3u8
